@@ -1,0 +1,23 @@
+What is Pomotask?
+
+A personal project called Pomotask offers a customisable pomodoro timer that functions in both desktop and mobile browsers. This app is designed to help you concentrate on any task you are working on, including writing, studying, and coding. The Pomodoro Technique, a time management strategy created by Francesco Cirillo, served as the model for this app.
+
+——
+
+How to use the Pomotask
+
++ Add tasks to work on today
++ Set estimate pomodoros (1 = 25min of work) for each tasks
++ Select a task to work on
++ Start timer and focus on the task for 25 minutes
++ Take a break for 5 or 15 minutes when the alarm ring
++ Iterate 3-5 until you finish the tasks
+
+——
+
+Basic Features
+
+- Daily Taget Pomodoro Timer
+- Built-in Task and Reminder
+- Music Player to increase focus
+- Weekly Report
